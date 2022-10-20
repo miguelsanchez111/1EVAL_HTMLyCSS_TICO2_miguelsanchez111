@@ -1,0 +1,9 @@
+span {
+ font-style: oblique;
+}
+span.negrita {
+    font-weight: bold;
+}
+span.siu {
+    font-size: larger; font-weight: bold; color: aqua;
+}
