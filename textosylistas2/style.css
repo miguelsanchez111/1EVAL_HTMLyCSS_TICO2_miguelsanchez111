@@ -7,3 +7,12 @@ span.negrita {
 span.siu {
     font-size: larger; font-weight: bold; color: aqua;
 }
+ul{
+    list-style-type: style disc; ;
+}
+ul{
+    list-style-type: square;
+}
+ul{
+    list-style-image:url("img/yoshi2.png");
+}
