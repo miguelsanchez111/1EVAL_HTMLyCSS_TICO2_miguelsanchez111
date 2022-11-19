@@ -1,4 +1,8 @@
-table{
-border:red 1px solid;
-}
+table {
+    
+    border-collapse: collapse;
+  }
+  td, th {
+    border: #2e0101 2px solid;
+  }
 
